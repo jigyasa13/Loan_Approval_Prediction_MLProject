@@ -42,5 +42,5 @@ If you want to run this notebook locally on your machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone https://github.com/jigyasa13/Loan_Approval_Prediction_MLProject.git
+   cd Loan_Approval_Prediction_MLProject
